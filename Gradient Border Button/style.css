@@ -1,9 +1,14 @@
 body{
-    background-color: black;
+    background-color: #000000;
     min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+h1{
+    color: #008cff;
+    position: absolute;
+    top: 30px;
 }
 button{
     padding: 1em 2em;
